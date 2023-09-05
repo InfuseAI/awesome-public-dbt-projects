@@ -16,10 +16,17 @@ A curated list of awesome public dbt projects that the community can learn from.
 
 ## Projects
 
-1. [Spellbook](https://github.com/duneanalytics/spellbook)- Blockchain data analytics.
-2. [CountMoney](https://github.com/flyanakin/CountMoney) - Finance data pipeline orchestration.
-3. [Danish Parliament Data](https://github.com/bgarcevic/danish-democracy-data) - Danish Parliament data from Folketinget API.
-4. [Taiwan Campaign Finance](https://github.com/g0v/tw_campaign_finance) - Campaign finance analytics with duckdb and [Mosaic Vgplot](https://uwdata.github.io/mosaic/vgplot/)
+- [Jaffle Shop](https://github.com/dbt-labs/jaffle_shop) - The canonical dbt sample project. ([with semantic layer](https://github.com/infuseai/jaffle-sl-template)
+- [Spellbook](https://github.com/duneanalytics/spellbook) - Blockchain data analytics.
+- [Filecoin Data](https://github.com/davidgasquez/filecoin-data-portal) - Filecoin data portal.
+- [CountMoney](https://github.com/flyanakin/CountMoney) - Finance data pipeline orchestration.
+- [Danish Parliament Data](https://github.com/bgarcevic/danish-democracy-data) - Danish Parliament data from Folketinget API.
+- [Taiwan Campaign Finance](https://github.com/g0v/tw_campaign_finance) - Campaign finance analytics with duckdb and [Mosaic Vgplot](https://uwdata.github.io/mosaic/vgplot/)
+- [Bird Data](https://github.com/dagster-io/mdsfest-opensource-mds) - Bird Data with [Dagster](https://dagster.io/), [Evidence](https://evidence.dev/) and duckdb
+- [Datadex](https://github.com/davidgasquez/datadex) - Climate & blockchain data modeling.
+- [NBA Data](https://github.com/matsonj/nba-monte-carlo) - Monte Carlo simulation of the NBA season, with meltano, duckdb and superset.
+- [GitLab Data Team](https://gitlab.com/gitlab-data/analytics) - Gitlab data by the GitLab data team.
+
 
 ## Contribution Guidelines
 
