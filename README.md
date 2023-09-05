@@ -26,6 +26,7 @@ A curated list of awesome public dbt projects that the community can learn from.
 - [Datadex](https://github.com/davidgasquez/datadex) - Climate & blockchain data modeling.
 - [NBA Data](https://github.com/matsonj/nba-monte-carlo) - Monte Carlo simulation of the NBA season, with meltano, duckdb and superset.
 - [GitLab Data Team](https://gitlab.com/gitlab-data/analytics) - Gitlab data by the GitLab data team.
+- [SOMA](https://github.com/Levers-Labs/SOMA-B2B-SaaS) - Standard Operating Metrics & Analytics - for b2b SaaS.
 
 
 ## Contribution Guidelines
