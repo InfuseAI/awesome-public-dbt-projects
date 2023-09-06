@@ -29,6 +29,7 @@ A curated list of awesome public dbt projects that the community can learn from.
 - [SOMA](https://github.com/Levers-Labs/SOMA-B2B-SaaS) - Standard Operating Metrics & Analytics - for b2b SaaS.
 - [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt) - Mattermost's data warehouse project.
 - [Flipside](https://github.com/FlipsideCrypto/sql_models) - SQL Tables/Views for Flipside Crypto.
+- [Twitter Trending](https://github.com/danthelion/twitter-trending) - A small example visualizing live Twitter trending data using Redpanda and Materialize.
 
 
 ## Contribution Guidelines
