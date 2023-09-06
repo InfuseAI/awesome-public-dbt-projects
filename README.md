@@ -30,7 +30,7 @@ A curated list of awesome public dbt projects that the community can learn from.
 - [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt) - Mattermost's data warehouse project.
 - [Flipside](https://github.com/FlipsideCrypto/sql_models) - SQL Tables/Views for Flipside Crypto.
 - [Twitter Trending](https://github.com/danthelion/twitter-trending) - A small example visualizing live Twitter trending data using Redpanda and Materialize.
-
+- [Fake Star Detector for GitHub](https://github.com/dagster-io/fake-star-detector) - Dagster project for analyzing fake stars on any GitHub repository.
 
 ## Contribution Guidelines
 
