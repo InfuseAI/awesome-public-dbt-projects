@@ -32,6 +32,9 @@ A curated list of awesome public dbt projects that the community can learn from.
 - [Twitter Trending](https://github.com/danthelion/twitter-trending) - A small example visualizing live Twitter trending data using Redpanda and Materialize.
 - [Fake Star Detector for GitHub](https://github.com/dagster-io/fake-star-detector) - Dagster project for analyzing fake stars on any GitHub repository.
 - [ngods stock market demo](https://github.com/zsvoboda/ngods-stocks) - stock market analysis demo with Iceberg, dbt, cube, metabase
+- [dbt_datawaves_wallet_labels](https://github.com/datawaves-xyz/dbt_datawaves_wallet_labels) - Ethereum Wallet labels built using dbt.
+
+
 
 ## Contribution Guidelines
 
