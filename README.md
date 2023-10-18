@@ -33,7 +33,8 @@ A curated list of awesome public dbt projects that the community can learn from.
 - [Fake Star Detector for GitHub](https://github.com/dagster-io/fake-star-detector) - Dagster project for analyzing fake stars on any GitHub repository.
 - [ngods stock market demo](https://github.com/zsvoboda/ngods-stocks) - stock market analysis demo with Iceberg, dbt, cube, metabase
 - [dbt_datawaves_wallet_labels](https://github.com/datawaves-xyz/dbt_datawaves_wallet_labels) - Ethereum Wallet labels built using dbt.
-
+- [Cal-ITP](https://github.com/cal-itp/data-infra/) - California Integrated Travel Project.
+- [CalData](https://github.com/cagov/data-infrastructure) - CalData's data infrastructure.
 
 
 ## Contribution Guidelines
