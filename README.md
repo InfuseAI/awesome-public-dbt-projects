@@ -35,7 +35,7 @@ A curated list of awesome public dbt projects that the community can learn from.
 - [dbt_datawaves_wallet_labels](https://github.com/datawaves-xyz/dbt_datawaves_wallet_labels) - Ethereum Wallet labels built using dbt.
 - [Cal-ITP](https://github.com/cal-itp/data-infra/) - California Integrated Travel Project.
 - [CalData](https://github.com/cagov/data-infrastructure) - CalData's data infrastructure.
-
+- [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform) - Dagster Lab's open-source data platform.
 
 ## Contribution Guidelines
 
